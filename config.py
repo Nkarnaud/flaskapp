@@ -31,7 +31,8 @@ class ProductionConfig(Config):
     """
     Production configurations
     """
-    DEBUG = False
+    DEBUG_TB_ENABLED = True
+    BCRYPT_LOG_ROUNDS = 4
 
 class TestConfig(Config):
     """

@@ -1,4 +1,4 @@
-# flaskapp
+# flask app
 Crud application in flask python. This application permit to assigne project to team members.
 - In this application we uses flask framework, mysql database.
 - In the application a user will register in the systeme and according to his skill the administrator will assign project to the user
